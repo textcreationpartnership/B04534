@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The letters patents of the States-General, (translated out of Dutch) granted to William Walcot, esq; upon their seeing the demonstrations of his art of making sea-water fresh, &amp;c. And putrified water wholesome.</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04534</idno>
+            <idno type="STC">Wing N486B</idno>
+            <idno type="STC">ESTC R3622</idno>
+            <idno type="EEBO-CITATION">52614802</idno>
+            <idno type="OCLC">ocm 52614802</idno>
+            <idno type="VID">175987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175987)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The letters patents of the States-General, (translated out of Dutch) granted to William Walcot, esq; upon their seeing the demonstrations of his art of making sea-water fresh, &amp;c. And putrified water wholesome.</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: dark, print show-through with loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walcot, William --  Early works to 1800.</term>
+               <term>Seawater --  Distillation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:175987:1" rendition="simple:additions"/>
+            <head>THE <hi>Letters Patents</hi> OF THE States-General, (Tranſlated out of DUTCH) GRANTED TO William Walcot, <abbr>Eſq</abbr> Upon their Seeing the Demonſtrations of his ART of Making <hi>Sea-Water</hi> Freſh, <hi>&amp;c.</hi> And <hi>Putrified-Water</hi> Wholeſome.</head>
+            <p>THE States General of the United <hi>Netherlands,</hi> To all that ſhall ſee theſe Preſents, or hear the ſame to be read, Greeting. We do make known, That we Received the Humble Petition to us preſented, in the Name, and on the behalf of <hi>William Walcot;</hi> purporting that he the Petitioner, by the Uſe of his own Induſtry had found out a New Invention, not only to make Foul Stinking Water uſeful to be Drank, but alſo and principally Salt or Brackiſh Water come<g ref="char:EOLhyphen"/>ing out of the Sea, to make Sweet and Freſh in a ſhort time, in great quantities, for all Ships, in long Voyages at Sea; upon Reaſonable Termes; and to Make and Uſe the ſame as occaſion ſhall be in Cities, Legers and Ships, or elſewhere, where no Freſh Water is to be had, and where Annoyed with Brackiſh or Stinking Water, for the Eaſe and Suſtenance of all Men, as well by Land, as upon the Water, upon any occaſion whatſoever: For the finding out of which Invention, the Petitioner had been at great Expence, and that therefore he ought to en<g ref="char:EOLhyphen"/>joy he Benefit thereof: And that he the Petitioner was informed that
+<pb n="2" facs="tcp:175987:2"/>ſome Ill Deſigning Perſons were endeavouring to Imitate his ſaid Inven<g ref="char:EOLhyphen"/>tion, and ſo to draw the Benefit from him. He thereupon deſiring our Octroy or Patent, and we having taken the ſame into our Conſideration, and finding our ſelves inclined to the Prayer of the Petitioner, Have Conſented, Agreed, and Granted unto him; and by theſe Preſents do Conſent, Agree, and Grant unto him, that he only, <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of all <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ers,</hi> Make, Practiſe, let at Work, and Uſe, and alſo Sell the ſaid New Invention for the Term of Fifteen Years now next Enſuing, in theſe <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands,</hi> Aſſociated Countreys, Cities, and Mem<g ref="char:EOLhyphen"/>bers thereof, for making Stinking Waters uſeful to be Drank, and Salt, or Brackiſh Water Sweet and Freſh: And we therefore Prohibit all, and every the Inhabitants of the aforeſaid <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands,</hi> Aſſo<g ref="char:EOLhyphen"/>ciated Countreys, Cities, and Members thereof, within the ſaid Space of Fifteen Years next Enſuing, the ſaid New Invention in part, or in whole, either great or ſmall, to Imitate, or cauſe to be Imitated; or being Imitated, to Import, Sell, or Uſe the ſame, under forfeiture of all the Imitated Works and Inſtruments: And moreover, of the Sum of Three Thouſand <hi>Carolus Gilders;</hi> One Third Part thereof to go to the Officer who ſhall Inform, another Third Part to the Uſe of the Poor, and the remaining Third Part to the Uſe of the Petitioner; Ordering and Commanding all Officers, Juſtices, Magiſtrates, and Inhabitants of the aforeſaid Countreys, and all others whom it may Concern: that they permit and ſuffer the ſaid Petitioner to Enjoy and have the full Effect of this our Octroy, Conſent, and Priviledge, any Let or Oppo<g ref="char:EOLhyphen"/>ſition to the contrary, notwithſtanding. He the Petitioner being never<g ref="char:EOLhyphen"/>theleſs bound by this our Octroy, to Deſire, and alſo Obtain an Octroy from ſuch Province or Provinces, where he ſhall Practice, and ſet at Work his aforeſaid New Invention.</p>
+            <closer>
+               <dateline>Given at the <hi>Hague</hi> under the Seal of the State, and the Firm of the Lord preſiding in our Aſſembly, and the Hand of our Secre<g ref="char:EOLhyphen"/>tary, <date>the 16<hi>th.</hi> of <hi>Septemb.</hi> 1684.</date>
+               </dateline>
+               <signed>By the Command of the aforeſaid Lords States General.
+<list>
+                     <item>L. S.</item>
+                     <item>Francis Verbolt.</item>
+                     <item>H. Fagell.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This Agrees in Subſtance with the Original,</p>
+               <closer>
+                  <dateline>London, <date>the 17<hi>th.</hi> of <hi>January,</hi> 1692.</date>
+                  </dateline>
+                  <signed>
+                     <hi>WILLIAM SCOREY,</hi> Not.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letters_patent">
+            <pb n="3" facs="tcp:175987:2"/>
+            <head>THE <hi>Letters Patents</hi> OF THE States of Holland, (Tranſlated out of DUTCH) GRANTED TO William Walcot, <abbr>Eſq</abbr> Upon their Seeing the Demonſtrations of his ART of Making <hi>Sea-Water</hi> Freſh, <hi>&amp;c.</hi> And <hi>Putrified-Water</hi> Wholeſome.</head>
+            <p>THE States of <hi>Holland</hi> and <hi>Weſt-Friezeland</hi> do make known, That Whereas <hi>William Walcot,</hi> 
+               <abbr>Eſq</abbr> hath ſhewed unto Us, That he, Petitioner, by Long Study, and Unwearied Labour, and very great Charge in making Inſtruments for Tryal of Experiments, hath perfectly Attained the ſo long ſought for Art of Making of all Impure, Stinking, as alſo Salt and Brackiſh Water, Sweet, Freſh, and Wholeſome for the Service and Support of all Men, by great Quantities in a Short Time, and with ſmall Charge; the Clear Proof whereof the Petitioner had ſhewn in part to the Lords Deputies out of the Aſſembly of Their High and Mightineſſes, and likewiſe to ſeve<g ref="char:EOLhyphen"/>ral of Our Aſſembly: But the further Serviceableneſs and Benefit, he will make more clearly appear, when the ſame ſhall be brought under the Protection of our Grant (with Excluſion of all other Gain-ſeeking Men) for a General Uſe both by Sea and Land. The Petitioner humbly requeſts that We would pleaſe to take into Conſideration the Reſolution of
+<pb n="4" facs="tcp:175987:3"/>their High and Mightineſſes, Dated the 11th of <hi>March,</hi> 1684. Exhibi<g ref="char:EOLhyphen"/>ted unto us, taken upon a Requeſt of the Petitioner delivered to their High and Mightineſſes, therein Offering, That if his Adverſary Mr. <hi>Fitz-Gerald,</hi> with his Adherents, could in all things Out-do, and better Manage and Work the Petitioners Invention than the Petitioner, they might then obtain a Free Grant; and the Petitioner, notwithſtanding the Great Charges he hath been at, would be content to depart without Speaking of a Conjunction, or Asking a Grant. And foraſmuch as it did very Clearly Appear to their High and Mightineſſes, and to di<g ref="char:EOLhyphen"/>vers of Our Aſſembly, by the Petitioners Grant from the King of <hi>England,</hi> Dated the 28th. of <hi>October,</hi> 1675, That the Petitioner was the True In<g ref="char:EOLhyphen"/>ventor, and the firſt who had given Right Demonſtration thereof; and that his Opponents could as yet do no otherwiſe, than what in times of Neceſſity many Years paſt had been done in Ships, but was never Approved for Good or Wholeſome Water; In purſuance whereof, the Petitioner deſires the Benefit of the above-mentioned Reſolution: Alſo the Allowing of Two Grants for one and the ſame Invention, was a thing contrary to the General Cuſtom of Nations, and would hinder the Practice of Art, as appear'd in <hi>England,</hi> and at once diſcourage the Petitioner to put forward in the ſame; for then his Opponents making themſelves Maſters thereof, would quickly Vaunt it over all the World, (of which the Petitioner hath already had ſome effect) and thruſt the Petitioner thereout; they as is now clearly manifeſt had not the Art to make Salt-Water, ſtanding, Foul and Stinking Water Wholeſome, or to do more or otherwiſe than any Ordinary Diſtiller, who might altoge<g ref="char:EOLhyphen"/>ther pretend to as much Right to a Grant as his Opponents: The Peti<g ref="char:EOLhyphen"/>tioner moſt humbly Requeſted, that we would pleaſe to obſerve that the whole Regard and Deſign of his Opponents appears here to be as they have done in <hi>England,</hi> to hinder the Petitioners pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Deſign of putting in Practice his Laudable Invention, (a Matter of ſo great Eſteem and Ser<g ref="char:EOLhyphen"/>viceableneſs for the Whole World) and to force him to a Complyance, whereby the Fruits of the Petitioners Study, Coſt, and Labour might be brought to them, as they had Endeavoured to do in <hi>England,</hi> by Great Expences of Money, and Powerful Intereſt of Friends; againſt which the Petitioner did not uſe ſuch Means, but ſubmitted his Caſe to the Juſtice and High Wiſdom of Our Famous Aſſembly, on which it now depends to keep alive this Serviceable Secret, that it may be made Pra<g ref="char:EOLhyphen"/>cticable in the World. The Premiſſes being conſidered, the Petitioner moſt humbly prayed, That We would pleaſe to beſtow on him a Grant, Prohibiting all others directly or indirectly, by Sea or by Land, to Serve themſelves therewith, and that for ſo many Years as has been Granted by Us to other Finders out of Inventions of great Weight. Now, So it is, That We having Conſider'd the aforeſaid Caſe and Requeſt; and being Inclined at the Petitioners Prayers, (after having taken the Judg<g ref="char:EOLhyphen"/>ment and Advice of the Lords Deputies of the City of <hi>Dort,</hi> and others by Us Appointed for Sea-Affairs and Manufactures) Have of Our Right Knowledge, Soveraign Power and Authority, Conſented, Agreed and Granted, We do Conſent, Agree, and Grant unto the Pe<g ref="char:EOLhyphen"/>titioner by theſe preſents, That he, during the Time of Fifteen Years next following, with his Heirs, Executors, and Aſſigns, his ſaid Inven<g ref="char:EOLhyphen"/>tion of making Foul, Stinking, and Salt-Water Sweet and Good, as well by Sea as on Land, within our ſaid Countreys, Only ſhall and may Make and Uſe, and Cauſe to be Made, Uſed, and Practiſed. Forbid<g ref="char:EOLhyphen"/>ding therefore all and every Perſon to make Uſe of his ſaid Invention, and Works, Directly or Indirectly, at Sea or on Land, or to Imitate the
+<pb n="5" facs="tcp:175987:3"/>ſame, or the ſame being Counterfeited, to bring or Sell the ſame in Our ſaid Countreys, upon Forfeiture of the Imitated Works, and a Fine of Fifteen Hundred Gilders to be Forfeited over and above, to be Ap<g ref="char:EOLhyphen"/>plyed, One Third Part to the Informer, One Third Part to the Poor of the Place where it ſhall happen, and the Remaining Third Part to the Petitioner, his Heirs, Executors, and Aſſigns. And to the End, the Petitioner may Enjoy this Our Conſent and Grant, as he ought; We Charge all and every, Whom it may Concern, that they may Permit and Suffer the Petitioner peaceably, quietly, and fully to Uſe and Enjoy what is here contained, any thing to the contrary notwithſtanding.</p>
+            <closer>
+               <dateline>Done at the <hi>Hague</hi> under Our Great Seal here Appending, <date>the Fourteenth of <hi>September,</hi> in the Year of Our Lord and Saviour, One Thouſand, Six Hundred, Eighty Four.</date>
+               </dateline> 
+               <signed>Gaſp. Fagel.</signed>
+
+            </closer>
+            <postscript>
+               <p>By Ordinance of the States,</p>
+               <closer>
+                  <signed>Simon Van Beaumont.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>It Agreeth in Subſtance with the Original: Which I Teſtifie,</p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>16th. <hi>January,</hi> 1692.</date>
+                  </dateline> 
+                  <signed>
+                     <hi>WILLIAM WIGHTMAN,</hi> Not.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letters_patent">
+            <pb facs="tcp:175987:4"/>
+            <pb n="7" facs="tcp:175987:4"/>
+            <head>THE <hi>Letters Patents</hi> OF THE States of Zeeland, (Tranſlated out of DUTCH) GRANTED TO William Walcot, <abbr>Eſq</abbr> For the Encouragement of his ART of Making <hi>Sea-Water</hi> Freſh, <hi>&amp;c.</hi> And <hi>Putrified-Water</hi> Wholeſome.</head>
+            <p>THE States of the Land and Earldom of <hi>Zeeland,</hi> do make known, That we having ſeen the Octroy Granted by the High and Mighty Lords, States General of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands,</hi> and of the Lords States of <hi>Holland</hi> and <hi>Frieze<g ref="char:EOLhyphen"/>land,</hi> to <hi>William Walcot,</hi> 
+               <abbr>Eſq</abbr> for the Space of Fifteen Years, all Salt, Brackiſh, and Stinking Water, Freſh, Clear, Sweet, and Sound, to make; but chiefly Salt and Brackiſh Water coming out of the Sea, in a ſhort Time, and great Quantities, for all Ships in long Voyages at Sea, upon Reaſonable Terms, to make Sweet and Freſh Water; and as occaſion ſhall ſerve to cauſe the ſame to be made for, and uſed in Cities, Legers, and Ships, or elſewhere, where no Freſh-Water can be obtained, and where Annoyed with Salt, Brackiſh, or Stinking Water, for the Eaſe and Support of all Perſons, as well by Land, as upon the Water, upon any Occaſion whatſoever; for the finding out of which Invention, great Charges had been Expended, ſo that of Right he ought to Enjoy the Benefit thereof; but the Petitioner being Informed that
+<pb n="8" facs="tcp:175987:5"/>ſome Ill Deſigning Perſons Endeavoured to Imitate his aforeſaid Inven<g ref="char:EOLhyphen"/>tion, and ſo to deprive him of the Benefit of the ſame; He therefore deſired Our Octroy: Which having conſider'd, So it is, That we finding our ſelves inclinable to the Prayer of the aforeſaid Petitioner, have Con<g ref="char:EOLhyphen"/>ſented, Agreed, and Granted unto him; and do Conſent, Agree, and Grant, by theſe Preſents, That he Only, <hi>with Excluſion of all others,</hi> for the Space of Fifteen Years next Enſuing, in this <hi>Province,</hi> the afore<g ref="char:EOLhyphen"/>ſaid New Invention of Making Stincking-Water fit to be Drank, and Salt or Brackiſh, Sweet and Freſh Water, may Make, Exerciſe, Set at Work, and Uſe; alſo Sell, and Diſpoſe of the ſame. Forbidding all and every the Inhabitants within the aforeſaid time of Fifteen Years, next Enſuing, the ſaid New Invention, in Whole, or in Part, Great, or Small, to Imitate, or cauſe to be Imitated, or Uſed; or Imitated elſe<g ref="char:EOLhyphen"/>where; to be Brought, Sold, or Uſed in this Province, under Forfeiture of all the Imitated Works and Inſtruments. And moreover, the Sum of Fifteen Hundred <hi>Gilders;</hi> One Third to go to the Officer who ſhall Inform, One Third to the Poor of the Place where the Matter ſhall hap<g ref="char:EOLhyphen"/>pen, and the remaining Third Part to the Petitioner. We Charging and Commanding all, and every one, whom it may Concern, That they Permit and Suffer the Petitioner, Peaceably, Quietly, and Entirely, to Enjoy and Uſe the Contents of this Our Octroy, all Impediments to the contrary notwithſtanding.</p>
+            <closer>With a Hanging Seal. <dateline>Thus done at the Court of <hi>Zeeland,</hi> at <hi>Middlebrough,</hi> 
+                  <date>the 30<hi>th.</hi> of <hi>April,</hi> 1685.</date>
+               </dateline>
+
+            </closer>
+            <postscript>
+               <p>By Command of the aforeſaid Lords States.</p>
+               <closer>
+                  <signed>V. Verheye.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>This Agrees in Subſtance with the Original,</p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>the 17th. of <hi>January,</hi> 1692/3.</date>
+                  </dateline> 
+                  <signed>
+                     <hi>WILLIAM SCOREY,</hi> Not.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
